@@ -1,0 +1,37 @@
+Users: 5
+Tasks: 4
+For User: naz
+	Tasks: 2
+	Percentage of tasks: 50.0
+	Percentage of assigned tasks completed: 0.0
+	Percentage of assigned tasks uncompleted: 100.0
+	Percentage overdue: 0.0
+-----------------------------------------------------------
+For User: admin
+	Tasks: 2
+	Percentage of tasks: 50.0
+	Percentage of assigned tasks completed: 50.0
+	Percentage of assigned tasks uncompleted: 50.0
+	Percentage overdue: 50.0
+-----------------------------------------------------------
+For User: test
+	Tasks: 0
+	Percentage of tasks: 0.0
+	Percentage of assigned tasks completed: 0
+	Percentage of assigned tasks uncompleted: 0
+	Percentage overdue: 0
+-----------------------------------------------------------
+For User: barry
+	Tasks: 0
+	Percentage of tasks: 0.0
+	Percentage of assigned tasks completed: 0
+	Percentage of assigned tasks uncompleted: 0
+	Percentage overdue: 0
+-----------------------------------------------------------
+For User: gert
+	Tasks: 0
+	Percentage of tasks: 0.0
+	Percentage of assigned tasks completed: 0
+	Percentage of assigned tasks uncompleted: 0
+	Percentage overdue: 0
+-----------------------------------------------------------
